@@ -1,4 +1,4 @@
-DEMO LINK : rpsUday.ccbp.tech
+DEMO LINK : [rpsUday.ccbp.tech](https://rpsuday.ccbp.tech/)
 
 In this project, let's build a **Rock Paper Scissors** by applying the concepts we have learned till now.
 
